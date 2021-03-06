@@ -33,11 +33,17 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
+
+<img align="left" alt="PowerBi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/powerbi.svg" />
 
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
 
+<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jupyter.svg" />
+
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
+
+<img align="left" alt="PyCharm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pycharm.svg" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
