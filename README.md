@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Lulasales/lulasales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Lula Sales - [Enthusiastic Data Scientist] 👋
+### Lula Sales - [Enthusiastic Data Scientist]
 
 ## I am hardware product manager in process to data scientist who loves leveraging data-driven solutions that make an impact on business and society!
 
-- 💻 I am currently studying Data Analytics and Data Science
+- 💻 I am currently learning Data Analytics and Data Science
 - 💻 I am also working as Product Marketing Manager for electronic products
 - 📈 I’m constantly learning and Improving my skills
-- 📊 I am looking to continue my apprenticeship by working and collaborating with other data scientists and developers 
+- 📊 I am looking to continue my apprenticeship and collaborate with other data scientists and developers 
 
 ### Connect with me:
 
