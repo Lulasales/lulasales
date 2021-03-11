@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Lula Sales - [Enthusiastic Data Scientist]
 
-## I am hardware product manager in process to data scientist who loves leveraging data-driven solutions that make an impact on business and society!
+## A hardware product manager in process to data scientist who loves leveraging data-driven solutions that make an impact on business and society!
 
 - 💻 I am currently learning Data Analytics and Data Science
 - 💻 I am also working as Product Marketing Manager for electronic products
